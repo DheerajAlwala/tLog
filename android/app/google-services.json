@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730582170788",
+    "project_id": "tlog-flutter",
+    "storage_bucket": "tlog-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730582170788:android:2dc7d3226493a74795ba31",
+        "android_client_info": {
+          "package_name": "com.tlog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730582170788-f5s09vinbdoie98tcq39bl7j3i6qkrgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJOBUL_bEkxg8YThPXLx2HE-iSmWOGJck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730582170788-f5s09vinbdoie98tcq39bl7j3i6qkrgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
